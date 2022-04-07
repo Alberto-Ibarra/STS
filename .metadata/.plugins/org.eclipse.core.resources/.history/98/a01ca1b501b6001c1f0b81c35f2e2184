@@ -1,0 +1,9 @@
+package com.alberto.zookeeper;
+
+public class Mammal {
+	private double energyLevel;
+	
+public Mammal() {
+	this.energyLevel=0;
+}
+}

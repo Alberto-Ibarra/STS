@@ -1,0 +1,20 @@
+package com.alberto.zookeeper;
+
+public class Gorilla extends Mammal {
+	
+	public Gorilla() {
+		super();
+	}
+	
+	public void throwSomething() {
+		System.out.println(" I threw a banana!")
+	}
+	
+	public void eatBananas() {
+		
+	}
+	
+	public void climb() {
+		
+	}
+}

@@ -1,0 +1,20 @@
+package com.alberto.zookeeper;
+
+public class TestMammal {
+
+	public static void main(String[] args) {
+		
+		 Mammal albert = new Mammal();
+		 albert.displayEnergy();
+		 
+		 Gorilla dylan = new Gorilla();
+		 dylan.displayEnergy();
+		 dylan.throwSomething();
+		 dylan.eatBananas();
+		 dylan.displayEnergy();
+		 dylan.climb();
+		 dylan.displayEnergy();
+
+	}
+
+}

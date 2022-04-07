@@ -1,0 +1,5 @@
+package com.alberto.inheritancedemo;
+
+public class Developer {
+
+}

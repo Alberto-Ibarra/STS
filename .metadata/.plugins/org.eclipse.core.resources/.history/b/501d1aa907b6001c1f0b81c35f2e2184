@@ -1,0 +1,10 @@
+package com.alberto.zookeeper;
+
+public class Bat extends Mammal {
+
+	public Bat() {
+		super();
+		this.setEnergyLevel(300);
+	}
+
+}
